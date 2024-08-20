@@ -28,9 +28,9 @@
    npm install
    ```
 
-3. **Set Up the Environment:**
+3. **While setting up the first time:**
 
-   Create a `.env` file in the root directory of the project and add your Groq API key:
+   The prompt "Enter your API key" appears when setting up the project for the first time.
 
    ```
    example: GROQ_API_KEY=sdk-12323
