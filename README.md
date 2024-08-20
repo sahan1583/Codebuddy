@@ -18,8 +18,8 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/gptools.git
-   cd gptools
+   git clone https://github.com/sahan1583/codebuddy.git
+   cd codebuddy
    ```
 
 2. **Install Dependencies:**
